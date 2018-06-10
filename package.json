@@ -28,7 +28,7 @@
       "email": "jimmy.aumard@gmail.com"
     },
     {
-      "name": "Anthony Matarazzo" ,
+      "name": "Anthony Matarazzo",
       "email": "email@anthonymatarazzo.com"
     }
   ],
@@ -37,11 +37,10 @@
     "StringScanner": "0.0.3"
   },
   "devDependencies": {
-    "eslint": "^3.2.0",
-    "mocha": "2.5.3"
+    "eslint": "^4.18.2",
+    "mocha": "4.0.0"
   },
-  "eslintConfig": {
-  },
+  "eslintConfig": {},
   "engines": {
     "node": ">= 4.0.0"
   }
